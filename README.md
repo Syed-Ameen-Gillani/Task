@@ -1,8 +1,5 @@
 # 🏋️‍♂️ Fitness & Hydration App (Flutter)
 
-A modern Flutter application focused on **hydration tracking, workout planning, and mood-based UI**, built with scalable architecture and clean state management.
-
----
 
 ## 📦 Dependencies Used
 
@@ -67,7 +64,7 @@ A modern Flutter application focused on **hydration tracking, workout planning, 
 
 ## 🔄 Full App Flow (Video)
 
-▶️ [Watch Full App Flow](https://github.com/user-attachments/assets/d3526c0f-4a3f-4e15-ac44-d37c2025d2cb)
+▶️ [Watch Full App Flow](https://drive.google.com/file/d/1NSjVMp61zTQ5HtjE2hK39yW3Wl669Vbg/view?usp=sharing)
 
 ---
 
@@ -75,23 +72,3 @@ A modern Flutter application focused on **hydration tracking, workout planning, 
 
 ⬇️ [Download Latest APK](https://drive.google.com/file/d/1TgsZ0BNqc6uQdeL4eE62RKB5AzhGA2QD/view?usp=sharing)
 
----
-
-## 🧱 Architecture Highlights
-
-* **Riverpod-based state management** (scalable and testable)
-* **Responsive UI** using ScreenUtil
-* **Separation of concerns** between UI, state, and logic
-* **Reusable components** and consistent theming
-
----
-
-## ✅ Notes
-
-* UI is designed to closely match the provided designs.
-* Navigation and routing are structured for easy future expansion.
-* No unnecessary dependencies or over-engineering.
-
----
-
-> Built with ❤️ using Flutter
