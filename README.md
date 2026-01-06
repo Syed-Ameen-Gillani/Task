@@ -44,19 +44,19 @@
 
 ## 🎨 App UI Preview
 
-| Home                                                                                 | Plan                                                                                 |
+| Home                                                                                 | Calender                                                                             |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
 | ![](https://github.com/user-attachments/assets/72f0a398-e651-434e-9480-62250bd03b9d) | ![](https://github.com/user-attachments/assets/177798af-73dd-4201-8e5b-430b304339da) |
 
-| Workout                                                                              | Mood                                                                                 |
+| Workout                                                                              | Main Mood Screen                                                                     |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
 | ![](https://github.com/user-attachments/assets/1a9943d5-1ee9-498e-af67-af6e47d6af9d) | ![](https://github.com/user-attachments/assets/27728ea6-8a97-4f8d-b357-66cdc4b08d1d) |
 
-| Calendar                                                                             | Hydration                                                                            |
+| Mood screen 1                                                                        | Mood screen 2                                                                        |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
 | ![](https://github.com/user-attachments/assets/030980d9-14b1-423a-b18c-fb7cad511d75) | ![](https://github.com/user-attachments/assets/2dec3c7f-3f1e-462b-b0f4-afaf137a4525) |
 
-| Progress                                                                             |
+| Mood Screen 3                                                                        |
 | ------------------------------------------------------------------------------------ |
 | ![](https://github.com/user-attachments/assets/be914e3e-e1ad-45ff-90d6-0016a36ede28) |
 
